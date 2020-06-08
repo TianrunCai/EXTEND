@@ -4,6 +4,6 @@ EXTEND is an efficient, flexible tool that uses the Regular Expression algorithm
 
 Installation steps:
 1. Create a system environment variable "ENTEND_HOME", set a desired path of the EXTEND main folder as the value.
-2. Download and unzip the file.
+2. Download and unzip the EXTEND folder.
 3. In a command line window, change the directory to folder with unzipped files.
 4. run "python setup.py install".
