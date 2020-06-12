@@ -12,13 +12,12 @@ Installation steps:
 3. In a command line window, change the directory to folder 'EXTEND-master'.
 4. run "python setup.py install".
 5. In order to perform data extraction, please select some of variables below to run (Note: it's case sensitive)
-
-  ['ECOG','EF','BMI','H','W','RR','T','BP','HR','Sat','PDL1','Crn','Hba1c']
-  ECOG:Eastern Cooperative Oncology Group;      HR: Heart Rate
-  EF: Ejection Fraction                         Sat: Oxygen Saturation
-  BMI: Body Mass Index                          PDL1: Programmed death-ligand 1 
-  H: Height                                     Crn: Creatinine
-  W: Weight                                     Hba1c: Hemoglobin A1c
-  RR: Respiratory Rate
-  T: Temperature
-  e.g. for extracting EF and BMI, we can use ['EF', 'BMI']
+      ['ECOG','EF','BMI','H','W','RR','T','BP','HR','Sat','PDL1','Crn','Hba1c']
+      ECOG:Eastern Cooperative Oncology Group;      HR: Heart Rate
+      EF: Ejection Fraction                         Sat: Oxygen Saturation
+      BMI: Body Mass Index                          PDL1: Programmed death-ligand 1 
+      H: Height                                     Crn: Creatinine
+      W: Weight                                     Hba1c: Hemoglobin A1c
+      RR: Respiratory Rate
+      T: Temperature
+  E.g. for extracting EF and BMI, we can use ['EF', 'BMI']
