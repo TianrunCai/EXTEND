@@ -4,7 +4,7 @@ EXTEND is an efficient, flexible and rule-based tool to extract clinical numeric
 
 Publication: https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0970-1
 
-The installation steps have been tested in Python 3.7 environment on windows 10, windows server 2016. 
+The installation steps have been tested in Python 3.7, 64bit, environment on windows 10,  windows server 2016. 
 
 Installation steps:
 1. Create a system environment variable "ENTEND_HOME", set a desired path of the EXTEND main folder as the value.
