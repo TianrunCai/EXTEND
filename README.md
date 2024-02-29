@@ -1,10 +1,10 @@
 # EXTEND
 EXTraction of EMR Numerical Data
-EXTEND is an efficient, flexible and rule-based tool to extract clinical numeric parameters with high accuracy. By expanding the dictionary and developing new rules, the usage of EXTEND can be easily expanded to extract additional numerical data important in clinical outcomes research. --
+EXTEND (Extraction of EMR Numerical Data) is a versatile, rule-based tool designed for efficient extraction of clinical numeric parameters with exceptional accuracy. Through the expansion of its dictionary and the creation of new rules, EXTEND can be readily adapted to extract additional numerical data crucial for clinical outcomes research. --
 
 Publication: https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0970-1
 
-The installation steps have been tested in Python 3.7, 64bit, environment on windows 10,  windows server 2016. 
+The installation procedures have been verified in a Python 3.7, 64-bit environment on both Windows 10 and Windows Server 2016. 
 
 Installation steps:
 1. Create a system environment variable "ENTEND_HOME", set a desired path of the EXTEND main folder as the value.
