@@ -10,3 +10,4 @@ The installation procedures have been validated in a Python 3.7, 64-bit environm
 Installation steps:
 
 Set up a system environment variable named "ENTEND_HOME" and assign the desired path of the EXTEND main folder as its value.
+Due to the size limitation, please send an email (tcai1@bwh.harvard.edu) to Tianrun Cai to get full version of the tool. 
