@@ -1,10 +1,14 @@
 # EXTEND
 EMR Numerical Data Extraction Tool
 
-The EXTEND (Extraction of EMR Numerical Data) tool is a versatile, NLP solution crafted for the efficient retrieval of clinical numeric parameters with outstanding precision. By continually expanding its dictionary and introducing new rules, EXTEND can be easily customized to extract additional numerical data essential for clinical outcomes research.
+The "EXTEND" tool, short for "Extraction of EMR Numerical Data," offers a flexible natural language processing (NLP) solution tailored for the precise extraction of clinical numeric parameters. Continuously enriching its dictionary and incorporating new rules, EXTEND can be readily adapted to capture additional numerical data crucial for clinical outcomes research.
 
-Publication: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6858776/
+I now developed an interface to better haddling setting up parameters, monitoring the processes.
+
+For more details, please refer to the publication:
+        https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6858776/
 
 Set up a system environment variable named "ENTEND_HOME" and assign the desired path of the EXTEND main folder as its value.
 
-Due to the size limitation, please send an email (tcai1@bwh.harvard.edu) to Tianrun Cai to get full version of the tool. 
+Please note that due to file size restrictions, the full version of the tool can be obtained by emailing Tianrun Cai at tcai1@bwh.harvard.edu.
+
