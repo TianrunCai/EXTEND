@@ -7,6 +7,7 @@ I now developed an interface to better haddling setting up parameters, monitorin
 
 For more details, please refer to the publication:
         https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6858776/
+        Cai, T., Zhang, L., Yang, N., Kumamaru, K.K., Rybicki, F.J., Cai, T. and Liao, K.P., 2019. EXTraction of EMR numerical data: an efficient and             generalizable tool to EXTEND clinical research. BMC medical informatics and decision making, 19, pp.1-7.
 
 Set up a system environment variable named "ENTEND_HOME" and assign the desired path of the EXTEND main folder as its value.
 
