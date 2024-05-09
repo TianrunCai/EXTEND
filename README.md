@@ -17,6 +17,7 @@ Prerequisite:
 1.	    Sign up at www.enrichfuture.org using your academic email.
 2.	    Operating system requirement: Windows 8 or later, with a minimum of 8GB RAM.
 3.	    Ensure data is stored in an MSSQL database with a minimum of 5 columns: patient ID, Note ID, Note date, Note type, and Note.
+   
 To begin using:
 4.	    Set the environment variable ‘EXTEND_HOME’ to the path of the main Extend folder.
 5.	    Provide your username and registered email address within the settings panel.
