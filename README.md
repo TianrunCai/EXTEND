@@ -19,13 +19,20 @@ Prerequisite:
 3.	    Ensure data is stored in an MSSQL database with a minimum of 5 columns: patient ID, Note ID, Note date, Note type, and Note.
    
 To begin using:
+
 4.	    Set the environment variable ‘EXTEND_HOME’ to the path of the main Extend folder.
-5.	    Provide your username and registered email address within the settings panel.
-6.	    Input and validate MSSQL connection details by clicking the ‘Test Server’ button.
-7.	    Specify the table name and required column names. Validate entries with the ‘Test Query’ button.
-8.	    Within the main panel, enter the project name and the range of patient IDs.
-9.	    Initiate the process by selecting the ‘Run’ button.
-10.         Verify the outcomes in the 'results' directory located within the primary Extend pathway.
+5.	
+6.	    Provide your username and registered email address within the settings panel.
+7.	
+8.	    Input and validate MSSQL connection details by clicking the ‘Test Server’ button.
+9.	
+10.	    Specify the table name and required column names. Validate entries with the ‘Test Query’ button.
+11.	
+12.	    Within the main panel, enter the project name and the range of patient IDs.
+    
+14.	    Initiate the process by selecting the ‘Run’ button.
+    
+16.         Verify the outcomes in the 'results' directory located within the primary Extend pathway.
 
 
 
