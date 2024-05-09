@@ -21,8 +21,7 @@ Prerequisite:
 To begin using:
 
 4.	    Set the environment variable ‘EXTEND_HOME’ to the path of the main Extend folder.
-5.	
-6.	    Provide your username and registered email address within the settings panel.
+5.	    Provide your username and registered email address within the settings panel.
 7.	
 8.	    Input and validate MSSQL connection details by clicking the ‘Test Server’ button.
 9.	
