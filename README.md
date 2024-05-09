@@ -13,3 +13,18 @@ Cai, T., Zhang, L., Yang, N., Kumamaru, K.K., Rybicki, F.J., Cai, T. and Liao, K
 
 Please note that due to file size restrictions, the full version of the tool can be obtained by emailing Tianrun Cai at tcai1@bwh.harvard.edu.
 
+Prerequisite: 
+1.	    Sign up at www.enrichfuture.org using your academic email.
+2.	    Operating system requirement: Windows 8 or later, with a minimum of 8GB RAM.
+3.	    Ensure data is stored in an MSSQL database with a minimum of 5 columns: patient ID, Note ID, Note date, Note type, and Note.
+To begin using:
+4.	    Set the environment variable ‘EXTEND_HOME’ to the path of the main Extend folder.
+5.	    Provide your username and registered email address within the settings panel.
+6.	    Input and validate MSSQL connection details by clicking the ‘Test Server’ button.
+7.	    Specify the table name and required column names. Validate entries with the ‘Test Query’ button.
+8.	    Within the main panel, enter the project name and the range of patient IDs.
+9.	    Initiate the process by selecting the ‘Run’ button.
+10.         Verify the outcomes in the 'results' directory located within the primary Extend pathway.
+
+
+
