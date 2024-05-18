@@ -14,7 +14,7 @@ Cai, T., Zhang, L., Yang, N., Kumamaru, K.K., Rybicki, F.J., Cai, T. and Liao, K
 Please note that due to file size restrictions, the full version of the tool can be obtained by emailing Tianrun Cai at tcai1@bwh.harvard.edu.
 
 Prerequisite: 
-1.	    Sign up at www.enrichfuture.org using your academic email.
+1.	    Sign up at https://www.verityresearch.org/register/ using your academic email.
 2.	    Operating system requirement: Windows 8 or later, with a minimum of 8GB RAM.
 3.	    Ensure data is stored in an MSSQL database with a minimum of 5 columns: patient ID, Note ID, Note date, Note type, and Note.
    
